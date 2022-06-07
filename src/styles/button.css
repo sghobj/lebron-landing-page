@@ -1,0 +1,15 @@
+.btn {
+    padding: 10px 25px;
+    font-size: 1.2rem;
+    background-color: white;
+    box-shadow: 0px 14px 17px -6px #aaa;
+    border-radius:38px;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Trebuchet MS;
+    font-weight:bold;
+}
+.btn:hover {
+    background-color: white;
+    box-shadow: 2px 2px 2px 0px #aaaaaa;
+}
