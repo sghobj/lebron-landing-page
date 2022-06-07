@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lebron-landing-page/static/css/main.00e1f7ab.css",
+    "main.css": "/lebron-landing-page/static/css/main.48bf2216.css",
     "main.js": "/lebron-landing-page/static/js/main.e819a1f7.js",
     "static/media/5e823a52.png": "/lebron-landing-page/static/media/34a4256fc96d903a15b7741f63346d835e823a52.6dd52ecb3028993a26b5.png",
     "static/media/eb74e665.png": "/lebron-landing-page/static/media/c9d406da4eb1f2166903921444150809eb74e665.d416945242cb4e1b69b5.png",
     "index.html": "/lebron-landing-page/index.html",
-    "main.00e1f7ab.css.map": "/lebron-landing-page/static/css/main.00e1f7ab.css.map",
+    "main.48bf2216.css.map": "/lebron-landing-page/static/css/main.48bf2216.css.map",
     "main.e819a1f7.js.map": "/lebron-landing-page/static/js/main.e819a1f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.00e1f7ab.css",
+    "static/css/main.48bf2216.css",
     "static/js/main.e819a1f7.js"
   ]
 }
